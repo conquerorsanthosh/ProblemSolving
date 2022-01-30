@@ -11,3 +11,16 @@ D:\Documents\Personal\Interview\Practice\ProblemSolving\SlidingWindow\SlidingWin
 D:\Documents\Personal\Interview\Practice\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.dll
 D:\Documents\Personal\Interview\Practice\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.pdb
 D:\Documents\Personal\Interview\Practice\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.genruntimeconfig.cache
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\bin\Debug\netcoreapp3.1\SlidingWindow.exe
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\bin\Debug\netcoreapp3.1\SlidingWindow.deps.json
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\bin\Debug\netcoreapp3.1\SlidingWindow.runtimeconfig.json
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\bin\Debug\netcoreapp3.1\SlidingWindow.runtimeconfig.dev.json
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\bin\Debug\netcoreapp3.1\SlidingWindow.dll
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\bin\Debug\netcoreapp3.1\SlidingWindow.pdb
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.csprojAssemblyReference.cache
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.AssemblyInfoInputs.cache
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.AssemblyInfo.cs
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.csproj.CoreCompileInputs.cache
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.dll
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.pdb
+D:\Problem Solving\ProblemSolving\SlidingWindow\SlidingWindow\obj\Debug\netcoreapp3.1\SlidingWindow.genruntimeconfig.cache

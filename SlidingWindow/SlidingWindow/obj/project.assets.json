@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Personal\\Interview\\Practice\\ProblemSolving\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj",
+      "projectUniqueName": "D:\\Problem Solving\\ProblemSolving\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj",
       "projectName": "SlidingWindow",
-      "projectPath": "D:\\Documents\\Personal\\Interview\\Practice\\ProblemSolving\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj",
+      "projectPath": "D:\\Problem Solving\\ProblemSolving\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj",
       "packagesPath": "C:\\Users\\sankrish\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Personal\\Interview\\Practice\\ProblemSolving\\SlidingWindow\\SlidingWindow\\obj\\",
+      "outputPath": "D:\\Problem Solving\\ProblemSolving\\SlidingWindow\\SlidingWindow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
