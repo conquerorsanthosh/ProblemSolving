@@ -8,8 +8,9 @@ namespace SlidingWindow
 		static void Main(string[] args)
 		{
 			//HashSet<string> result= GetAllSubstringWithKDistinctChars("abcbacabaccxzabc", 4);
-			Console.WriteLine(SlidingWindowsProblems.GetMaxLenSubstringWithKRepeatingCharacters("aaabbccddeeffaaaggghk", 2));
+			//Console.WriteLine(SlidingWindowsProblems.GetMaxLenSubstringWithKRepeatingCharacters("aaabbccddeeffaaaggghk", 2));
 			//foreach (string s in result) Console.WriteLine(s);
+			SlidingWindowsProblems.GetLongestSubstrwithSameLettersAfterReplacement("aabbcceecc", 2);
 			Console.ReadLine();
 		}
 
