@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T14:15:39.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_PfFgSbs9XjiHvH65_Qw" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-13T14:26:53.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZeWQGFlAk2B_XiZmPmCF" version="20.3.0" type="github" pages="2">
   <diagram id="T-eQUspOFnynLqRNxrah" name="Video Uploading Scenario">
     <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,9 @@
         </mxCell>
         <mxCell id="gZxkg9Pe2Q-J1JH7AX3k-39" value="Extract detailed metadata , invoke different transcoder services" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="480" y="430" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gpT2Z20Q6Gz0P4D0VYmI-2" value="https://www.educative.io/module/lesson/grokking-system-design-interview/N0jgjk3l9qz#5.-High-Level-Design&lt;br&gt;https://www.codekarle.com/system-design/netflix-system-design.html&lt;br&gt;https://www.youtube.com/watch?v=1xV5WI0OFkg" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="10" y="510" width="350" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
